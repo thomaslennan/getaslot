@@ -1,0 +1,8 @@
+{
+  "chromeWebSecurity": false,
+  "integrationFolder": "./cypress/integration/",
+  "supportFile": "cypress/support/index.js",
+  "retries": {
+    "openMode": 180
+  }
+}
